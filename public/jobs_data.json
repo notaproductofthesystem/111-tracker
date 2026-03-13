@@ -168,20 +168,6 @@
     "id": 12
   },
   {
-    "title": "Associate Director Scientific/Medical Writing",
-    "level": "Director",
-    "department": "BioNTech",
-    "location": "Mainz, RP, DE, 55116",
-    "date": "Mar 4, 2026",
-    "status": "Active",
-    "sources": [
-      "BioNTech"
-    ],
-    "description": "暂无详细描述",
-    "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Mainz-Associate-Director-ScientificMedical-Writing-RP-55116/1287743801/",
-    "id": 13
-  },
-  {
     "title": "Senior Director, Safety Sciences Lead",
     "level": "Senior Director",
     "department": "BioNTech",
@@ -193,7 +179,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Mainz-Senior-Director%2C-Safety-Sciences-Lead-RP-55116/1288540501/",
-    "id": 14
+    "id": 13
   },
   {
     "title": "Associate Director, Global Labeling Lead",
@@ -207,7 +193,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Berkeley-Heights-Associate-Director%2C-Global-Labeling-Lead-NJ-NJ-07922/1288506301/",
-    "id": 15
+    "id": 14
   },
   {
     "title": "Director Corporate Communications",
@@ -221,7 +207,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Shanghai-Director-Corporate-Communications-SH-200041/1287908101/",
-    "id": 16
+    "id": 15
   },
   {
     "title": "Director, Global Product Strategy",
@@ -235,7 +221,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Berkeley-Heights-Director%2C-Global-Product-Strategy-NJ-NJ-07922/1287825001/",
-    "id": 17
+    "id": 16
   },
   {
     "title": "(Associate) Director Protein & ADC Analytics",
@@ -249,7 +235,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Shanghai-%28Associate%29-Director-Protein-&-ADC-Analytics-SH-200041/1369845133/",
-    "id": 18
+    "id": 17
   },
   {
     "title": "(Associate) Director Protein & ADC Drug Substance",
@@ -263,48 +249,6 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Shanghai-%28Associate%29-Director-Protein-&-ADC-Drug-Substance-SH-200041/1369844533/",
-    "id": 19
-  },
-  {
-    "title": "Associate Director Application Security",
-    "level": "Director",
-    "department": "BioNTech",
-    "location": "Mainz, RP, DE, 55116",
-    "date": "Mar 3, 2026",
-    "status": "Active",
-    "sources": [
-      "BioNTech"
-    ],
-    "description": "暂无详细描述",
-    "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Mainz-Associate-Director-Application-Security-RP-55116/1285609801/",
-    "id": 20
-  },
-  {
-    "title": "Associate Director Translational Sciences (Infectious Diseases)",
-    "level": "Director",
-    "department": "BioNTech",
-    "location": "Mainz, RP, DE, 55131 +3 more…",
-    "date": "Mar 3, 2026",
-    "status": "Active",
-    "sources": [
-      "BioNTech"
-    ],
-    "description": "暂无详细描述",
-    "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Mainz-Associate-Director-Translational-Sciences-%28Infectious-Diseases%29-RP-55131/1286709301/",
-    "id": 21
-  },
-  {
-    "title": "Senior Director, MS&T - Antibody Technical Product Steward",
-    "level": "Senior Director",
-    "department": "BioNTech",
-    "location": "Gaithersburg, MD, US, MD 20878",
-    "date": "Mar 3, 2026",
-    "status": "Active",
-    "sources": [
-      "BioNTech"
-    ],
-    "description": "暂无详细描述",
-    "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Gaithersburg-Senior-Director%2C-MS&T-Antibody-Technical-Product-Steward-MD-MD-20878/1287375301/",
-    "id": 22
+    "id": 18
   }
 ]
