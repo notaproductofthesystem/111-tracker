@@ -1,19 +1,5 @@
 [
   {
-    "title": "Associate Director, Clinical Quality Assurance",
-    "level": "Director",
-    "department": "BioNTech",
-    "location": "Cambridge, MA, US, MA 02139",
-    "date": "May 15, 2026",
-    "status": "Active",
-    "sources": [
-      "BioNTech"
-    ],
-    "description": "暂无详细描述",
-    "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Cambridge-Associate-Director%2C-Clinical-Quality-Assurance-MA-MA-02139/1384650833/",
-    "id": 1
-  },
-  {
     "title": "(Ass.) Director AS&T mAb & ADC Network",
     "level": "Director",
     "department": "BioNTech",
@@ -25,7 +11,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Shanghai-%28Ass_%29-Director-AS&T-mAb-&-ADC-Network-SH-200041/1384380233/",
-    "id": 2
+    "id": 1
   },
   {
     "title": "Director, Clinical Vendor Management & Performance Optimization",
@@ -39,6 +25,20 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Cambridge-Director%2C-Clinical-Vendor-Management-&-Performance-Optimization-MA-MA-02139/1384704233/",
+    "id": 2
+  },
+  {
+    "title": "Associate Director, Clinical Quality Assurance",
+    "level": "Director",
+    "department": "BioNTech",
+    "location": "Cambridge, MA, US, MA 02139",
+    "date": "May 15, 2026",
+    "status": "Active",
+    "sources": [
+      "BioNTech"
+    ],
+    "description": "暂无详细描述",
+    "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Cambridge-Associate-Director%2C-Clinical-Quality-Assurance-MA-MA-02139/1384650833/",
     "id": 3
   },
   {
